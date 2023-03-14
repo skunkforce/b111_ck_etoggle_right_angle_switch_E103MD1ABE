@@ -56,7 +56,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|146550000|104000000|27e41039-2f3e-4e07-a478-aa153958a745|b89d5248-da79-4f1d-acbb-39c84248d908"
+      ],
       "meta": {
         "version": 2
       },
@@ -486,7 +488,7 @@
     ],
     [
       "767ce4c6-0e55-4543-92f0-34cb8237a544",
-      "implementation"
+      "switch"
     ]
   ],
   "text_variables": {}
